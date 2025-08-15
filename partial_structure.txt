@@ -1,0 +1,1975 @@
+Folder PATH listing for volume New Volume
+Volume serial number is D60B-6437
+D:.
+|   backblue.gif
+|   fade.gif
+|   index.html
+|   kalamClone.whtt
+|   partial_structure.txt
+|   structure.txt
+|   
++---kalamClone
+|   |   backblue.gif
+|   |   fade.gif
+|   |   hts-log.txt
+|   |   index.html
+|   |   
+|   +---connect.facebook.net
+|   |   \---en_US
+|   |           fbevents.js
+|   |           
+|   +---hts-cache
+|   |       doit.log
+|   |       new.lst
+|   |       new.txt
+|   |       new.zip
+|   |       readme.txt
+|   |       winprofile.ini
+|   |       
+|   \---www.kalamacademy.org
+|       |   index.html
+|       |   index05a9.html
+|       |   index08e5.html
+|       |   index08fa.html
+|       |   index1807.html
+|       |   index18ee.html
+|       |   index1c97.html
+|       |   index203c.html
+|       |   index27bb.html
+|       |   index2c9b.html
+|       |   index2edf.html
+|       |   index389e.html
+|       |   index3d56.html
+|       |   index4291.html
+|       |   index42c0.html
+|       |   index47b3.html
+|       |   index4890.html
+|       |   index50ca.html
+|       |   index50fb.html
+|       |   index549c.html
+|       |   index5da1.html
+|       |   index6674.html
+|       |   index6948.html
+|       |   index69c4.html
+|       |   index6cf2.html
+|       |   index7021.html
+|       |   index7513.html
+|       |   index7553.html
+|       |   index7755.html
+|       |   index77ce.html
+|       |   index85a1.html
+|       |   index8600.html
+|       |   index8ef4.html
+|       |   index919b.html
+|       |   indexa195.html
+|       |   indexaaef.html
+|       |   indexb231.html
+|       |   indexb3a5.html
+|       |   indexb3cc.html
+|       |   indexb765.html
+|       |   indexc537.html
+|       |   indexcca7.html
+|       |   indexd20a.html
+|       |   indexd3a4.html
+|       |   indexe3fd.html
+|       |   indexe7e0.html
+|       |   indexee82.html
+|       |   xmlrpc.php
+|       |   xmlrpc0db0.php
+|       |   
+|       +---add-category
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---add-category-2
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---add-new-products
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---add-new-products-with-scanner
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---add-staff
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---addons
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---all-orders
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---Assests
+|       |   +---img
+|       |   |       big_img.html
+|       |   |       kalam_header_logo.png
+|       |   |       placeholder1.jpg
+|       |   |       
+|       |   \---script
+|       |           ash_script.js
+|       |           
+|       +---author
+|       |   +---anand
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   \---sourav
+|       |       |   index.html
+|       |       |   
+|       |       +---feed
+|       |       |       index.html
+|       |       |       
+|       |       \---page
+|       |           +---2
+|       |           |       index.html
+|       |           |       
+|       |           \---3
+|       |                   index.html
+|       |                   
+|       +---banner
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---best-job-in-ranchi
+|       |       index.css
+|       |       index.html
+|       |       index.js
+|       |       
+|       +---bpo-call-center-telecaller-jobs-in-ranchi
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---business
+|       |       index.css
+|       |       index.html
+|       |       index.js
+|       |       
+|       +---cancel-order
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---category
+|       |   +---addons
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   +---delivery-slot
+|       |   |   |   |   index.html
+|       |   |   |   |   
+|       |   |   |   \---feed
+|       |   |   |           index.html
+|       |   |   |           
+|       |   |   +---feed
+|       |   |   |       index.html
+|       |   |   |       
+|       |   |   \---theme
+|       |   |       |   index.html
+|       |   |       |   
+|       |   |       \---feed
+|       |   |               index.html
+|       |   |               
+|       |   +---digital-marketing-course
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---job-in-ranchi
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---pos
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   +---category
+|       |   |   |   |   index.html
+|       |   |   |   |   
+|       |   |   |   +---add-category
+|       |   |   |   |   |   index.html
+|       |   |   |   |   |   
+|       |   |   |   |   \---feed
+|       |   |   |   |           index.html
+|       |   |   |   |           
+|       |   |   |   +---add-library-category
+|       |   |   |   |   |   index.html
+|       |   |   |   |   |   
+|       |   |   |   |   \---feed
+|       |   |   |   |           index.html
+|       |   |   |   |           
+|       |   |   |   \---feed
+|       |   |   |           index.html
+|       |   |   |           
+|       |   |   +---feed
+|       |   |   |       index.html
+|       |   |   |       
+|       |   |   +---page
+|       |   |   |   +---2
+|       |   |   |   |       index.html
+|       |   |   |   |       
+|       |   |   |   \---3
+|       |   |   |           index.html
+|       |   |   |           
+|       |   |   \---product
+|       |   |       |   index.html
+|       |   |       |   
+|       |   |       +---add-new-product
+|       |   |       |   |   index.html
+|       |   |       |   |   
+|       |   |       |   \---feed
+|       |   |       |           index.html
+|       |   |       |           
+|       |   |       \---feed
+|       |   |               index.html
+|       |   |               
+|       |   +---products
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---student-tips
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---uncategorised
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---user
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---web-development-course
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---डिजिटल-मार्केटिंग-हिंदी
+|       |   \---??????-??????????-?????
+|       |           index.html
+|       |           
+|       +---change-your-password
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---comments
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---coupons
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---delivery-panel
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---delivery-slot
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---digital-marketing-course-in-ranchi
+|       |       ash_script_dm.js
+|       |       index-2.html
+|       |       index.css
+|       |       index.html
+|       |       index.js
+|       |       
+|       +---digital-marketing-course-training-institute-in-ranchi
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---digital-marketing-course-with-placement
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---digital-marketing-course-with-placements
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---digital-marketing-courses-in-ranchi
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---digital-marketing-in-hindi
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---digital-services-in-ranchi
+|       |       index.html
+|       |       
+|       +---extra-pages
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---feed
+|       |       index.html
+|       |       
+|       +---google-ads-ka-kitna-paisaa-lagta-hai
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---how-to-manage-category
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---how-to-manage-products-listing
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---how-to-manage-your-products
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---job-in-ranchi
+|       |       index.html
+|       |       
+|       +---job-in-ranchi-office-job-in-ranchi
+|       |       index.html
+|       |       
+|       +---job-thankyou-page
+|       |       index.html
+|       |       
+|       +---jobs-in-ranchi
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---kirana-mart-like-grocery-application-start-your-grocery-delivery-service
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---my-shop
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---newAssests
+|       |   +---css
+|       |   |       index.css
+|       |   |       
+|       |   +---img
+|       |   |       big_img.webp
+|       |   |       kalam_bg2.png
+|       |   |       kalam_buisness_heroback.webp
+|       |   |       kalam_digital_hero.webp
+|       |   |       kalam_header_logo.png
+|       |   |       kalam_hero_section.webp
+|       |   |       kalam_web_heroback.webp
+|       |   |       placeholder.html
+|       |   |       placeholder1.jpg
+|       |   |       
+|       |   \---js
+|       |           index.js
+|       |           
+|       +---online-grocery-business
+|       |       index.html
+|       |       
+|       +---online-payment
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---our-team
+|       |       index.html
+|       |       
+|       +---personality-development-classes-in-ranchi-kalam-academy
+|       |       index.html
+|       |       
+|       +---php-training-web-design-development-course-in-ranchi
+|       |       index.html
+|       |       
+|       +---pos
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---privacy-policy
+|       |       index.html
+|       |       
+|       +---ranchi-creators-meet-1-0
+|       |       index.html
+|       |       
+|       +---ranchi-creators-meet-2-0
+|       |       index.html
+|       |       
+|       +---report
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---signals
+|       |       iwl.html
+|       |       
+|       +---start-online-doorstep-service-business
+|       |       index.html
+|       |       
+|       +---start-online-grocery-delivery-service
+|       |       index.html
+|       |       
+|       +---tag
+|       |   +---offline-website-development-course-in-ranchi
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---top-website-development-course-in-ranchi
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---website-banwane-ka-cost-kitna-hai
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---website-banwane-ka-kharcha
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---website-development-cost-in-india
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---website-development-course
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---website-development-course-in-ranchi
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---website-development-courses-near-me
+|       |   |   |   index.html
+|       |   |   |   
+|       |   |   \---feed
+|       |   |           index.html
+|       |   |           
+|       |   +---वेबसाइट-बनवाने-का-कितना-प
+|       |   \---???????-??????-??-?????-?
+|       |           index.html
+|       |           
+|       +---terms-of-service
+|       |       index.html
+|       |       
+|       +---them
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---theme-choice
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---users
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---video-gallery
+|       |       index.html
+|       |       
+|       +---web-design-web-development-course-in-ranchi
+|       |       index.html
+|       |       
+|       +---web-development-course-in-ranchi
+|       |   |   ash_script_dm.js
+|       |   |   b.html
+|       |   |   c-2.html
+|       |   |   c.html
+|       |   |   index-2.html
+|       |   |   index.css
+|       |   |   index.html
+|       |   |   index.js
+|       |   |   POST.html
+|       |   |   
+|       |   \---schema.org
+|       |           index.html
+|       |           
+|       +---web-development-courses-in-ranchi
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---website-banwane-ka-kitna-paisa-lagta-hai
+|       |   |   index.html
+|       |   |   
+|       |   \---feed
+|       |           index.html
+|       |           
+|       +---website-development-company-in-india-web-designing-company-in-india
+|       |       index.html
+|       |       
+|       +---website-development-course
+|       |       index.html
+|       |       
+|       +---wp-content
+|       |   +---plugins
+|       |   |   +---elementor
+|       |   |   |   \---assets
+|       |   |   |       +---css
+|       |   |   |       |   |   frontend.min7871.css
+|       |   |   |       |   |   widget-accordion.min7871.css
+|       |   |   |       |   |   widget-divider.min7871.css
+|       |   |   |       |   |   widget-google_maps.min7871.css
+|       |   |   |       |   |   widget-heading.min7871.css
+|       |   |   |       |   |   widget-icon-box.min7871.css
+|       |   |   |       |   |   widget-icon-list.min7871.css
+|       |   |   |       |   |   widget-image-box.min7871.css
+|       |   |   |       |   |   widget-image-carousel.min7871.css
+|       |   |   |       |   |   widget-image-gallery.min7871.css
+|       |   |   |       |   |   widget-image.min7871.css
+|       |   |   |       |   |   widget-spacer.min7871.css
+|       |   |   |       |   |   widget-star-rating.min7871.css
+|       |   |   |       |   |   widget-tabs.min7871.css
+|       |   |   |       |   |   widget-testimonial.min7871.css
+|       |   |   |       |   |   widget-text-editor.min7871.css
+|       |   |   |       |   |   widget-toggle.min7871.css
+|       |   |   |       |   |   widget-video.min7871.css
+|       |   |   |       |   |   
+|       |   |   |       |   \---conditionals
+|       |   |   |       |           e-swiper.min7871.css
+|       |   |   |       |           shapes.min7871.css
+|       |   |   |       |           
+|       |   |   |       +---js
+|       |   |   |       |       frontend-modules.min7871.js
+|       |   |   |       |       frontend.min7871.js
+|       |   |   |       |       webpack.runtime.min7871.js
+|       |   |   |       |       
+|       |   |   |       \---lib
+|       |   |   |           +---animations
+|       |   |   |           |   \---styles
+|       |   |   |           |           e-animation-grow.min7871.css
+|       |   |   |           |           
+|       |   |   |           +---eicons
+|       |   |   |           |   +---css
+|       |   |   |           |   |       elementor-icons.minf25c.css
+|       |   |   |           |   |       
+|       |   |   |           |   \---fonts
+|       |   |   |           |           eicons6feb.eot
+|       |   |   |           |           eicons6feb.svg
+|       |   |   |           |           eicons6feb.ttf
+|       |   |   |           |           eicons6feb.woff
+|       |   |   |           |           eicons6feb.woff2
+|       |   |   |           |           
+|       |   |   |           +---font-awesome
+|       |   |   |           |   +---css
+|       |   |   |           |   |       all.min10df.css
+|       |   |   |           |   |       all.min7871.css
+|       |   |   |           |   |       brands.min52d5.css
+|       |   |   |           |   |       font-awesome.min1849.css
+|       |   |   |           |   |       fontawesome.min52d5.css
+|       |   |   |           |   |       regular.min52d5.css
+|       |   |   |           |   |       solid.min52d5.css
+|       |   |   |           |   |       v4-shims.min10df.css
+|       |   |   |           |   |       v4-shims.min7871.css
+|       |   |   |           |   |       
+|       |   |   |           |   +---fonts
+|       |   |   |           |   |       fontawesome-webfont3e6e.eot
+|       |   |   |           |   |       fontawesome-webfont3e6e.svg
+|       |   |   |           |   |       fontawesome-webfont3e6e.ttf
+|       |   |   |           |   |       fontawesome-webfont3e6e.woff
+|       |   |   |           |   |       fontawesome-webfont3e6e.woff2
+|       |   |   |           |   |       fontawesome-webfontd41d.eot
+|       |   |   |           |   |       
+|       |   |   |           |   +---js
+|       |   |   |           |   |       v4-shims.min10df.js
+|       |   |   |           |   |       v4-shims.min7871.js
+|       |   |   |           |   |       
+|       |   |   |           |   \---webfonts
+|       |   |   |           |           fa-brands-400.eot
+|       |   |   |           |           fa-brands-400.svg
+|       |   |   |           |           fa-brands-400.ttf
+|       |   |   |           |           fa-brands-400.woff
+|       |   |   |           |           fa-brands-400.woff2
+|       |   |   |           |           fa-brands-400d41d.eot
+|       |   |   |           |           fa-regular-400.eot
+|       |   |   |           |           fa-regular-400.svg
+|       |   |   |           |           fa-regular-400.ttf
+|       |   |   |           |           fa-regular-400.woff
+|       |   |   |           |           fa-regular-400.woff2
+|       |   |   |           |           fa-regular-400d41d.eot
+|       |   |   |           |           fa-solid-900.eot
+|       |   |   |           |           fa-solid-900.svg
+|       |   |   |           |           fa-solid-900.ttf
+|       |   |   |           |           fa-solid-900.woff
+|       |   |   |           |           fa-solid-900.woff2
+|       |   |   |           |           fa-solid-900d41d.eot
+|       |   |   |           |           
+|       |   |   |           \---swiper
+|       |   |   |               \---v8
+|       |   |   |                   |   swiper.min94a4.js
+|       |   |   |                   |   
+|       |   |   |                   \---css
+|       |   |   |                           swiper.min94a4.css
+|       |   |   |                           
+|       |   |   +---elementskit-lite
+|       |   |   |   +---libs
+|       |   |   |   |   \---framework
+|       |   |   |   |       \---assets
+|       |   |   |   |           \---js
+|       |   |   |   |                   frontend-scripta25a.js
+|       |   |   |   |                   
+|       |   |   |   +---modules
+|       |   |   |   |   \---elementskit-icon-pack
+|       |   |   |   |       \---assets
+|       |   |   |   |           +---css
+|       |   |   |   |           |       ekiticonsa25a.css
+|       |   |   |   |           |       
+|       |   |   |   |           \---fonts
+|       |   |   |   |                   elementskit97ac.woff
+|       |   |   |   |                   
+|       |   |   |   \---widgets
+|       |   |   |       \---init
+|       |   |   |           \---assets
+|       |   |   |               +---css
+|       |   |   |               |       responsivea25a.css
+|       |   |   |               |       widget-stylesa25a.css
+|       |   |   |               |       
+|       |   |   |               +---img
+|       |   |   |               |       arrow.png
+|       |   |   |               |       cross-out.svg
+|       |   |   |               |       sort_asc.png
+|       |   |   |               |       sort_asc_disabled.png
+|       |   |   |               |       sort_desc.png
+|       |   |   |               |       
+|       |   |   |               \---js
+|       |   |   |                       animate-circle.mina25a.js
+|       |   |   |                       elementora25a.js
+|       |   |   |                       goodshare.mina25a.js
+|       |   |   |                       widget-scriptsa25a.js
+|       |   |   |                       
+|       |   |   +---essential-addons-for-elementor-lite
+|       |   |   |   \---assets
+|       |   |   |       +---admin
+|       |   |   |       |   \---images
+|       |   |   |       |       \---templately
+|       |   |   |       |               logo-icon.svg
+|       |   |   |       |               
+|       |   |   |       \---front-end
+|       |   |   |           +---css
+|       |   |   |           |   \---view
+|       |   |   |           |           general.min10df.css
+|       |   |   |           |           
+|       |   |   |           \---js
+|       |   |   |               \---view
+|       |   |   |                       general.min10df.js
+|       |   |   |                       
+|       |   |   +---happy-elementor-addons
+|       |   |   |   \---assets
+|       |   |   |       +---fonts
+|       |   |   |       |       happy-icons.svg
+|       |   |   |       |       happy-icons.woff
+|       |   |   |       |       happy-icons.woff2
+|       |   |   |       |       style.min110d.css
+|       |   |   |       |       
+|       |   |   |       +---js
+|       |   |   |       |       extension-reading-progress-bar.min110d.js
+|       |   |   |       |       happy-addons.min110d.js
+|       |   |   |       |       
+|       |   |   |       \---vendor
+|       |   |   |           \---dom-purify
+|       |   |   |                   purify.min005e.js
+|       |   |   |                   
+|       |   |   +---ninja-forms
+|       |   |   |   \---assets
+|       |   |   |       +---css
+|       |   |   |       |       display-opinions-light75e4.css
+|       |   |   |       |       font-awesome.min75e4.css
+|       |   |   |       |       
+|       |   |   |       +---fonts
+|       |   |   |       |       fontawesome-webfont3295.eot
+|       |   |   |       |       fontawesome-webfont3295.svg
+|       |   |   |       |       fontawesome-webfont3295.ttf
+|       |   |   |       |       fontawesome-webfont3295.woff
+|       |   |   |       |       fontawesome-webfont3295.woff2
+|       |   |   |       |       fontawesome-webfontd41d.eot
+|       |   |   |       |       
+|       |   |   |       +---img
+|       |   |   |       |       help-info.png
+|       |   |   |       |       
+|       |   |   |       \---js
+|       |   |   |           \---min
+|       |   |   |                   front-end-depsafa0.js
+|       |   |   |                   front-endafa0.js
+|       |   |   |                   
+|       |   |   \---royal-elementor-addons
+|       |   |       \---assets
+|       |   |           +---css
+|       |   |           |   |   frontend.mine356.css
+|       |   |           |   |   
+|       |   |           |   \---lib
+|       |   |           |       \---animations
+|       |   |           |               text-animations.mine356.css
+|       |   |           |               
+|       |   |           \---js
+|       |   |               |   frontend.mine356.js
+|       |   |               |   modal-popups.mine356.js
+|       |   |               |   
+|       |   |               \---lib
+|       |   |                   +---jarallax
+|       |   |                   |       jarallax.minf184.js
+|       |   |                   |       
+|       |   |                   +---parallax
+|       |   |                   |       parallax.min5152.js
+|       |   |                   |       
+|       |   |                   \---particles
+|       |   |                           particles7c45.js
+|       |   |                           
+|       |   +---themes
+|       |   |   \---hestia
+|       |   |       |   style.minaeb9.css
+|       |   |       |   
+|       |   |       \---assets
+|       |   |           +---bootstrap
+|       |   |           |   +---css
+|       |   |           |   |       bootstrap.min20b9.css
+|       |   |           |   |       
+|       |   |           |   \---js
+|       |   |           |           bootstrap.min20b9.js
+|       |   |           |           
+|       |   |           +---css
+|       |   |           |       font-sizes.minaeb9.css
+|       |   |           |       page-builder-styleaeb9.css
+|       |   |           |       
+|       |   |           +---img
+|       |   |           |       placeholder.jpg
+|       |   |           |       
+|       |   |           \---js
+|       |   |                   script.minaeb9.js
+|       |   |                   
+|       |   \---uploads
+|       |       +---2018
+|       |       |   \---11
+|       |       |           study-box_1.jpg
+|       |       |           
+|       |       +---2019
+|       |       |   +---07
+|       |       |   |       ajay-ji-digital-marketing-student-in-ranchi-min.jpg
+|       |       |   |       amit-kumar-singh-digital-marketing-student-in-ranchi.jpg
+|       |       |   |       CampusTalent1-placement-partner-for-digital-marketing-course-min.jpg
+|       |       |   |       grocity-placement-partner-for-digital-marketing-course-min.jpg
+|       |       |   |       hayst-placement-partner-for-digital-marketing-course-min.jpg
+|       |       |   |       IT-placement-partner-for-digital-marketing-course-min.jpg
+|       |       |   |       luvstay-placement-partner-for-digital-marketing-course-min.jpg
+|       |       |   |       piso-placement-partner-for-digital-marketing-course-min.jpg
+|       |       |   |       startup-team-working-and-planning-in-the-meeting-PYDV7FT-min-copy-min.jpg
+|       |       |   |       vanakkam.jpg
+|       |       |   |       
+|       |       |   +---09
+|       |       |   |       Untitled-design-min.html
+|       |       |   |       
+|       |       |   \---12
+|       |       |           1470399656_Branding.png
+|       |       |           1470399662_Marketing.png
+|       |       |           1470399667_Newsletter.png
+|       |       |           1470399671_SEO.png
+|       |       |           1470399674_App_Development.png
+|       |       |           1470399715_E-Commerce.png
+|       |       |           25388715424_65480dbf18_k.jpg
+|       |       |           Want-To-Learn-Digital-Marketing-In-Ranchi_-1-500x317.jpg
+|       |       |           Want-To-Learn-Digital-Marketing-In-Ranchi_-2-500x317.jpg
+|       |       |           
+|       |       +---2020
+|       |       |   +---07
+|       |       |   |       LEARN-APPLY-1.jpg
+|       |       |   |       LEARN-APPLY.jpg
+|       |       |   |       Untitled-design-10.jpg
+|       |       |   |       Untitled-design-4.jpg
+|       |       |   |       Untitled-design-5.jpg
+|       |       |   |       Untitled-design-6.jpg
+|       |       |   |       Untitled-design-7.jpg
+|       |       |   |       Untitled-design-8.jpg
+|       |       |   |       
+|       |       |   \---10
+|       |       |           Content-Marketing.1.png
+|       |       |           cropped-KA-1.png
+|       |       |           CTA-Home-page-New.png
+|       |       |           Digital-Consulting.1.png
+|       |       |           Graphic-Design.1.png
+|       |       |           SEO.1.png
+|       |       |           social-media.1.png
+|       |       |           Web-Design.1.png
+|       |       |           
+|       |       +---2021
+|       |       |   +---01
+|       |       |   |       FREE-Business-Consultancy.png
+|       |       |   |       
+|       |       |   +---05
+|       |       |   |       Delnaz-Irani-Loves-Kalam-Academy-1.jpg
+|       |       |   |       
+|       |       |   +---11
+|       |       |   |       1.png
+|       |       |   |       2.png
+|       |       |   |       3.png
+|       |       |   |       4.png
+|       |       |   |       5.png
+|       |       |   |       
+|       |       |   \---12
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-1-150x150.jpg
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-1.jpg
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-2-150x150.jpg
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-2.jpg
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-3-150x150.jpg
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-3.jpg
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-4-150x150.jpg
+|       |       |           Ranchi-Creators-Meet-1.0-Media-Coverage-4.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-1-1-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-1-1.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-1-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-1.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-10-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-10.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-11-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-11.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-12-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-12.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-13-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-13.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-14-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-14.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-15-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-15.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-16-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-16.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-17-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-17.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-18-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-18.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-19-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-19.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-2-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-2.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-20-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-20.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-21-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-21.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-22-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-22.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-23-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-23.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-24-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-24.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-25-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-25.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-26-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-26.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-27-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-27.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-28-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-28.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-29-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-29.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-3-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-3.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-30-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-30.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-31-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-31.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-4-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-4.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-5-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-5.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-6-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-6.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-7-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-7.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-8-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-8.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-9-500x313.jpg
+|       |       |           Ranchi-Creators-Meet-Photos-9.jpg
+|       |       |           Ranchi-Creators-Meet-Photos.jpg
+|       |       |           
+|       |       +---2023
+|       |       |   +---03
+|       |       |   |       DIGITAL-MARKETING-COURSE-WITH-PLACEMENT-360x240.webp
+|       |       |   |       Digital-Marketing-Course-with-Placement.-1024x576.webp
+|       |       |   |       DIGITAL-MARKETING-COURSE-WITH-PLACEMENT.webp
+|       |       |   |       media-coverage-150x150.jpg
+|       |       |   |       media-coverage.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-17-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-17.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-18-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-18.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-19-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-19.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-20-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-20.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-21-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-21.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-22-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-22.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-23-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-23.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-24-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-24.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-25-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-25.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-26-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-26.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-27-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-27.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-28-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-28.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-29-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-29.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-30-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-30.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-31-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-31.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-32-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-32.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-33-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-33.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-34-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-34.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-35-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-35.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-36-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-36.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-37-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-37.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-38-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-38.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-39-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-39.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-40-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-40.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-41-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-41.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-42-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-42.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-43-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-43.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-44-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-44.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-45-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-45.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-46-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-46.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-47-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-47.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-48-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-48.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-49-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-49.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-50-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-50.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-51-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-51.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-52-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-52.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-53-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-53.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-54-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-54.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-55-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-55.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-56-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-56.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-57-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-57.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-58-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-58.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-59-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-59.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-60-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-60.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-61-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-61.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-62-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-62.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-63-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-63.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-64-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-64.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-65-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-65.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-66-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-66.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-67-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-67.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-68-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-68.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-69-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-69.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-70-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-70.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-71-500x313.jpg
+|       |       |   |       Ranchi-Creators-Meet-2.0-Photos-71.jpg
+|       |       |   |       Ranchi-Creators-Meet2-1-150x150.jpg
+|       |       |   |       Ranchi-Creators-Meet2-1.jpg
+|       |       |   |       
+|       |       |   +---04
+|       |       |   |       google-ads-ka-kitna-paisaa-lagta-hai-360x240.webp
+|       |       |   |       google-ads-ka-kitna-paisaa-lagta-hai.webp
+|       |       |   |       website-development-cost-in-India-360x240.jpg
+|       |       |   |       website-development-cost-in-India.jpg
+|       |       |   |       
+|       |       |   \---12
+|       |       |           Website-Development-offline-courses-in-Ranchi-with-placements-360x240.jpg
+|       |       |           
+|       |       +---2024
+|       |       |   +---01
+|       |       |   |       20240108_160626_0000-1024x576.jpg
+|       |       |   |       20240108_185905_0000.jpg
+|       |       |   |       Best-Digital-Marketing-Institute-in-Ranchi-1.jpg
+|       |       |   |       Best-Digital-Marketing-Institute-in-Ranchi-1024x576.jpg
+|       |       |   |       Best-Digital-Marketing-Institute-in-Ranchi-800-x-300-px.jpg
+|       |       |   |       Digital-marketing-course-with-placements-360x240.jpg
+|       |       |   |       Digital-marketing-course-with-placements.jpg
+|       |       |   |       Job-opportunities-after-Digital-Marketing-Course-1024x576.jpg
+|       |       |   |       Topic-covered-under-Digital-Marketing-Course-1024x576.jpg
+|       |       |   |       WhatsApp-Image-2024-01-05-at-17.08.16_2b9df509-1024x576.jpg
+|       |       |   |       WhatsApp-Image-2024-01-05-at-17.08.16_2b9df509-360x240.jpg
+|       |       |   |       WhatsApp-Image-2024-01-05-at-17.08.16_2b9df509.jpg
+|       |       |   |       WhatsApp-Image-2024-01-05-at-17.08.16_310157cc-1024x576.jpg
+|       |       |   |       WhatsApp-Image-2024-01-12-at-19.01.34_4e537adf-1-1024x214.jpg
+|       |       |   |       
+|       |       |   +---03
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px-1.jpg
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px-1.png
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px-2-1.jpg
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px-2.png
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px-4.png
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px-6.png
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px.jpg
+|       |       |   |       Digital-marketing-course-with-placements-595-x-549-px.png
+|       |       |   |       image-1.jpg
+|       |       |   |       IMG-20240321-WA0022-1024x177.jpg
+|       |       |   |       IMG-20240321-WA0023-1024x162.jpg
+|       |       |   |       IMG-20240321-WA0024-1024x165.jpg
+|       |       |   |       IMG-20240321-WA0025-1024x184.jpg
+|       |       |   |       IMG-20240321-WA0026-1024x178.jpg
+|       |       |   |       IMG-20240321-WA0027-1024x176.jpg
+|       |       |   |       IMG-20240321-WA0028-1024x177.jpg
+|       |       |   |       IMG-20240321-WA0029-1024x177.jpg
+|       |       |   |       IMG-20240321-WA0030-1024x177.jpg
+|       |       |   |       IMG-20240321-WA0031-1024x174.jpg
+|       |       |   |       IMG-20240321-WA0032-1024x180.jpg
+|       |       |   |       IMG-20240321-WA0033-1024x187.jpg
+|       |       |   |       IMG-20240321-WA0034-1024x181.jpg
+|       |       |   |       IMG-20240321-WA0035-1024x174.jpg
+|       |       |   |       IMG-20240321-WA0036-1024x183.jpg
+|       |       |   |       IMG-20240322-WA0009-1024x178.jpg
+|       |       |   |       IMG-20240322-WA0010-1024x167.jpg
+|       |       |   |       IMG-20240322-WA0011-1024x653.jpg
+|       |       |   |       IMG-20240322-WA0012-1024x142.jpg
+|       |       |   |       IMG-20240322-WA0014-1024x338.jpg
+|       |       |   |       IMG-20240322-WA0015-1024x683.jpg
+|       |       |   |       IMG-20240322-WA0017-1024x635.jpg
+|       |       |   |       IMG-20240322-WA0024-1024x577.jpg
+|       |       |   |       IMG-20240322-WA0025-1-755x1024.jpg
+|       |       |   |       IMG-20240322-WA0026-720x1024.jpg
+|       |       |   |       IMG-20240322-WA0027-616x1024.jpg
+|       |       |   |       IMG-20240322-WA0029-650x1024.jpg
+|       |       |   |       IMG-20240322-WA0030-654x1024.jpg
+|       |       |   |       IMG-20240323-WA0002-1024x166.jpg
+|       |       |   |       IMG-20240323-WA0004-1024x680.jpg
+|       |       |   |       IMG-20240323-WA0005-1024x474.jpg
+|       |       |   |       IMG-20240323-WA0006-1024x919.jpg
+|       |       |   |       IMG-20240323-WA0007-1024x153.jpg
+|       |       |   |       IMG-20240323-WA0008-1024x163.jpg
+|       |       |   |       IMG-20240323-WA0009-1024x180.jpg
+|       |       |   |       IMG-20240323-WA0010-1024x176.jpg
+|       |       |   |       IMG-20240323-WA0011-1024x177.jpg
+|       |       |   |       IMG-20240323-WA0012-1024x330.jpg
+|       |       |   |       IMG-20240323-WA0029-1-1024x256.jpg
+|       |       |   |       IMG-20240323-WA0032-1024x533.jpg
+|       |       |   |       IMG-20240323-WA0033-1024x542.jpg
+|       |       |   |       IMG-20240323-WA0035-1024x345.jpg
+|       |       |   |       IMG-20240323-WA0036-1024x145.jpg
+|       |       |   |       IMG-20240323-WA0037-1024x653.jpg
+|       |       |   |       IMG-20240324-WA0004-1024x457.jpg
+|       |       |   |       IMG-20240324-WA0014.jpg
+|       |       |   |       IMG-20240324-WA0015.jpg
+|       |       |   |       IMG-20240324-WA0016-1024x619.jpg
+|       |       |   |       IMG-20240324-WA0017-1024x151.jpg
+|       |       |   |       IMG-20240324-WA0018-1024x170.jpg
+|       |       |   |       IMG-20240324-WA0019-1024x307.jpg
+|       |       |   |       Screenshot_20240315-190541__1_-removebg-preview-1.png
+|       |       |   |       Screenshot_20240315-190614-2-1-1-1.png
+|       |       |   |       Screenshot_20240315-190614-2-1-1024x139.png
+|       |       |   |       Screenshot_20240315-190614-2-1-3.png
+|       |       |   |       Screenshot_20240319-013709-1.png
+|       |       |   |       Screenshot_20240319-013724-1.png
+|       |       |   |       Screenshot_20240319-013801-1-788x1024.png
+|       |       |   |       Screenshot_20240320-004117-1.png
+|       |       |   |       Screenshot_20240320-030046-2.png
+|       |       |   |       Screenshot_20240320-030046-3-1.png
+|       |       |   |       Screenshot_20240320-114833-1.png
+|       |       |   |       Screenshot_20240320-131001-1-1024x485.png
+|       |       |   |       Screenshot_20240321-135400-1-739x1024.png
+|       |       |   |       Screenshot_20240321-152849-1-1-3-1024x262.png
+|       |       |   |       Screenshot_20240322-153714-1-851x1024.png
+|       |       |   |       Untitled-design-2-1.png
+|       |       |   |       Untitled-design-4.png
+|       |       |   |       WhatsApp-Image-2024-03-21-at-12.07.10_bfef3faa.jpg
+|       |       |   |       WhatsApp-Image-2024-03-21-at-12.22.52_87e0bac7-1024x177.jpg
+|       |       |   |       WhatsApp-Image-2024-03-21-at-12.22.53_16504d80-1024x183.jpg
+|       |       |   |       WhatsApp-Image-2024-03-21-at-12.22.53_973aefa7-1-1024x169.jpg
+|       |       |   |       WhatsApp-Image-2024-03-21-at-14.08.51_27bb8bd4-849x1024.jpg
+|       |       |   |       WhatsApp-Image-2024-03-22-at-11.16.11_c4b32715-923x1024.jpg
+|       |       |   |       WhatsApp-Image-2024-03-22-at-11.16.11_f9a3d11d-1024x175.jpg
+|       |       |   |       WhatsApp-Image-2024-03-22-at-12.02.25_ae051e39-1-890x1024.jpg
+|       |       |   |       WhatsApp-Image-2024-03-22-at-15.16.21_33f63d35.jpg
+|       |       |   |       WhatsApp-Image-2024-03-22-at-15.23.44_76ee3d51-1024x168.jpg
+|       |       |   |       WhatsApp-Image-2024-03-22-at-15.29.00_f8f73f20-1024x443.jpg
+|       |       |   |       WhatsApp-Image-2024-03-22-at-17.35.52_6b642eb3-1024x889.jpg
+|       |       |   |       WhatsApp-Image-2024-03-23-at-14.00.16_d08a8bcd-1024x453.jpg
+|       |       |   |       WhatsApp-Image-2024-03-23-at-14.09.04_ccfaa1b8-1024x399.jpg
+|       |       |   |       WhatsApp-Image-2024-03-23-at-14.09.05_4697f7c1-1024x405.jpg
+|       |       |   |       WhatsApp-Image-2024-03-23-at-14.09.05_568aaf40-1024x286.jpg
+|       |       |   |       WhatsApp-Image-2024-03-23-at-14.32.49_c2b76a6e-1024x312.jpg
+|       |       |   |       WhatsApp-Image-2024-03-23-at-14.38.47_c6a7bef5-1024x393.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-02.01.11_b34e6628-1024x312.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-02.01.12_29943271.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-02.01.12_57649042.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-02.01.12_9e14d8bd-1.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-02.01.12_9e14d8bd.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-02.01.13_73c19dfa.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-02.01.13_846a14ee-1024x298.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.36_171b6a88-930x1024.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.36_dac70428.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.37_238e57d9.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.37_7a784e15.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.37_80bf48ef.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.38_3493ef37-1024x166.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.38_47d1d92a-1024x175.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.38_84ff3886-1024x160.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.39_06d0320c-1024x280.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.39_9a03d77c-1024x169.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.20.39_a7778b23-1024x156.jpg
+|       |       |   |       WhatsApp-Image-2024-03-24-at-12.48.53_4d794034-1024x704.jpg
+|       |       |   |       WhatsApp-Image-2024-03-27-at-15.26.42_94cb5009.jpg
+|       |       |   |       WhatsApp-Image-2024-03-27-at-15.28.46_3dec0495.jpg
+|       |       |   |       WhatsApp-Image-2024-03-27-at-16.02.42_8a708aad-977x1024.jpg
+|       |       |   |       WhatsApp-Image-2024-03-27-at-16.04.35_c9196f5a-918x1024.jpg
+|       |       |   |       WhatsApp-Image-2024-03-27-at-16.23.00_55a1c5ef-1024x545.jpg
+|       |       |   |       WhatsApp-Image-2024-03-27-at-16.23.01_eca0b276-2-1024x161.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.41.08_4bd983eb-1-1024x245.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.41.08_52652d47-1024x345.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.41.09_a46004ad-1024x376.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.55.53_2e61013a-1024x420.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.55.54_a49ac08d-1024x246.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.55.54_b5949911-1024x242.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.55.54_f9c3f15d-1024x251.jpg
+|       |       |   |       WhatsApp-Image-2024-03-30-at-15.55.55_d2696da9-1024x325.jpg
+|       |       |   |       
+|       |       |   +---09
+|       |       |   |       cropped-Untitled-design-180x180.png
+|       |       |   |       cropped-Untitled-design-192x192.png
+|       |       |   |       cropped-Untitled-design-32x32.png
+|       |       |   |       
+|       |       |   +---10
+|       |       |   |       Academic-Counselor-Job-in-Ranchi.jpg
+|       |       |   |       Business-Developer-Job-in-Ranchi.jpg
+|       |       |   |       Job-in-Ranchi-Jharkhand.jpg
+|       |       |   |       Job-in-Ranchi.jpg
+|       |       |   |       Tele-caller-Job-in-Ranchi.jpg
+|       |       |   |       
+|       |       |   \---11
+|       |       |           Digital-Marketing-Course-in-Ranchi-with-placemen-1024x576.jpg
+|       |       |           Digital-Marketing-Course-in-Ranchi-with-placemen-360x240.jpg
+|       |       |           Digital-Marketing-Course-in-Ranchi-with-placemen.jpg
+|       |       |           Web-Development-Course-in-Ranchi-1024x576.png
+|       |       |           
+|       |       +---elementor
+|       |       |   +---css
+|       |       |   |       post-1314e9ed.css
+|       |       |   |       post-13331e703.css
+|       |       |   |       post-13966e703.css
+|       |       |   |       post-147424a9.css
+|       |       |   |       post-152077c2.css
+|       |       |   |       post-2490c499.css
+|       |       |   |       post-3303dcef.css
+|       |       |   |       post-402715ea.css
+|       |       |   |       post-41423cb2.css
+|       |       |   |       post-4625d966.css
+|       |       |   |       post-77516313.css
+|       |       |   |       post-80295a93.css
+|       |       |   |       
+|       |       |   \---thumbs
+|       |       |           1-p1916anhppqnve62w2eqcvebxmrvu1x8mgd21r2tc0.jpg
+|       |       |           1-p1916anhppqnve62w2eqcvebxmrvu1x8mgd256bmes.jpg
+|       |       |           2-p19168rtc1o3868t71lh7vveqv15enpry7236meer8.jpg
+|       |       |           3-p19169pnivpdjs7g1k03sdmvc8wimctiabpknwd0l0.jpg
+|       |       |           4-p19169pnivpdjs7g1k03sdmvc8wimctiabpknwd0l0.jpg
+|       |       |           
+|       |       \---essential-addons-elementor
+|       |               eael-2490b23b.css
+|       |               eael-2490b23b.html
+|       |               eael-414247ec.css
+|       |               eael-414247ec.html
+|       |               eael-46259bd1.css
+|       |               eael-46259bd1.html
+|       |               
+|       +---wp-includes
+|       |   +---css
+|       |   |   |   dashicons.min75e4.css
+|       |   |   |   
+|       |   |   \---dist
+|       |   |       \---block-library
+|       |   |               style.min75e4.css
+|       |   |               
+|       |   +---fonts
+|       |   |       dashicons7d4b.eot
+|       |   |       dashicons7d4b.ttf
+|       |   |       
+|       |   \---js
+|       |       |   backbone.min91ce.js
+|       |       |   comment-reply.min75e4.js
+|       |       |   underscore.mind584.js
+|       |       |   
+|       |       \---jquery
+|       |           |   jquery-migrate.min5589.js
+|       |           |   jquery.minf43b.js
+|       |           |   
+|       |           \---ui
+|       |                   core.min3f14.js
+|       |                   
+|       \---wp-json
+|           |   index.html
+|           |   
+|           +---oembed
+|           |   \---1.0
+|           |           embed0304.json
+|           |           embed0988.json
+|           |           embed0d7d.json
+|           |           embed0e1f.json
+|           |           embed0f7e.json
+|           |           embed10cb.json
+|           |           embed14fd
+|           |           embed17e1
+|           |           embed19de.json
+|           |           embed1cd3
+|           |           embed1e15
+|           |           embed2bd7.json
+|           |           embed2bda
+|           |           embed2c30.json
+|           |           embed3046
+|           |           embed319b
+|           |           embed3396.json
+|           |           embed3403
+|           |           embed3642.json
+|           |           embed37da.json
+|           |           embed39f1.json
+|           |           embed3ad5
+|           |           embed3c16.json
+|           |           embed3e04
+|           |           embed4a35.json
+|           |           embed4dd6
+|           |           embed4e48
+|           |           embed4f25.json
+|           |           embed512e.json
+|           |           embed52de
+|           |           embed596d.json
+|           |           embed59e6
+|           |           embed5b35.json
+|           |           embed5bc4
+|           |           embed5c2e.json
+|           |           embed602d
+|           |           embed608a
+|           |           embed659c
+|           |           embed67ae
+|           |           embed6d28
+|           |           embed6e30.json
+|           |           embed6e73.json
+|           |           embed6f27.json
+|           |           embed7022
+|           |           embed722f
+|           |           embed798c
+|           |           embed7e94.json
+|           |           embed8b11.json
+|           |           embed8c83.json
+|           |           embed8d27
+|           |           embed8e91
+|           |           embed8ef9
+|           |           embed8f92
+|           |           embed90a2
+|           |           embed9145
+|           |           embed9227.json
+|           |           embed9246.json
+|           |           embed941e.json
+|           |           embed945f.json
+|           |           embed97cf
+|           |           embed9a38.json
+|           |           embed9d73.json
+|           |           embed9e57
+|           |           embeda494
+|           |           embeda7f9
+|           |           embedab8d
+|           |           embedb042
+|           |           embedb6f1.json
+|           |           embedb937
+|           |           embedc0cf.json
+|           |           embedc103
+|           |           embedc9ad
+|           |           embedca64.json
+|           |           embedcc85
+|           |           embedcd44
+|           |           embedce6e.json
+|           |           embedcfee.json
+|           |           embedd2f0
+|           |           embedd830.json
+|           |           embedd929.json
+|           |           embeddb75
+|           |           embedddeb.json
+|           |           embede05e.json
+|           |           embede708.json
+|           |           embedeb60.json
+|           |           embedee7f
+|           |           embedf031
+|           |           embedf551
+|           |           embedf5e8.json
+|           |           embedfd0c.json
+|           |           
+|           \---wp
+|               \---v2
+|                   +---categories
+|                   |       1.json
+|                   |       100.json
+|                   |       111.json
+|                   |       112.json
+|                   |       25.json
+|                   |       66.json
+|                   |       69.json
+|                   |       87.json
+|                   |       88.json
+|                   |       89.json
+|                   |       91.json
+|                   |       92.json
+|                   |       93.json
+|                   |       94.json
+|                   |       96.json
+|                   |       97.json
+|                   |       
+|                   +---pages
+|                   |       1332.json
+|                   |       1474.json
+|                   |       1520.json
+|                   |       2490.json
+|                   |       3303.json
+|                   |       365.json
+|                   |       4027.json
+|                   |       4142.json
+|                   |       4625.json
+|                   |       7751.json
+|                   |       
+|                   +---posts
+|                   |       1068.json
+|                   |       11384.json
+|                   |       11460.json
+|                   |       11830.json
+|                   |       11843.json
+|                   |       11887.json
+|                   |       11895.json
+|                   |       11899.json
+|                   |       11901.json
+|                   |       11907.json
+|                   |       11909.json
+|                   |       11911.json
+|                   |       11915.json
+|                   |       11917.json
+|                   |       11921.json
+|                   |       11925.json
+|                   |       11927.json
+|                   |       11929.json
+|                   |       11931.json
+|                   |       11933.json
+|                   |       12000.json
+|                   |       12013.json
+|                   |       12029.json
+|                   |       12075.json
+|                   |       12098.json
+|                   |       12378.json
+|                   |       12387.json
+|                   |       13331.json
+|                   |       13686.json
+|                   |       13719.json
+|                   |       13966.json
+|                   |       1429.json
+|                   |       8029.json
+|                   |       8093.json
+|                   |       8129.json
+|                   |       
+|                   +---tags
+|                   |       72.json
+|                   |       74.json
+|                   |       75.json
+|                   |       79.json
+|                   |       80.json
+|                   |       81.json
+|                   |       83.json
+|                   |       84.json
+|                   |       
+|                   \---users
+|                           1.json
+|                           4.json
+|                           
+\---kalam_backend
+    +---static
+    |   +---css
+    |   |       style.css
+    |   |       
+    |   +---images
+    |   |   +---2018
+    |   |   |   \---11
+    |   |   |           study-box_1.jpg
+    |   |   |           
+    |   |   +---2019
+    |   |   |   +---07
+    |   |   |   |       ajay-ji-digital-marketing-student-in-ranchi-min.jpg
+    |   |   |   |       amit-kumar-singh-digital-marketing-student-in-ranchi.jpg
+    |   |   |   |       CampusTalent1-placement-partner-for-digital-marketing-course-min.jpg
+    |   |   |   |       grocity-placement-partner-for-digital-marketing-course-min.jpg
+    |   |   |   |       hayst-placement-partner-for-digital-marketing-course-min.jpg
+    |   |   |   |       IT-placement-partner-for-digital-marketing-course-min.jpg
+    |   |   |   |       luvstay-placement-partner-for-digital-marketing-course-min.jpg
+    |   |   |   |       piso-placement-partner-for-digital-marketing-course-min.jpg
+    |   |   |   |       startup-team-working-and-planning-in-the-meeting-PYDV7FT-min-copy-min.jpg
+    |   |   |   |       vanakkam.jpg
+    |   |   |   |       
+    |   |   |   +---09
+    |   |   |   |       Untitled-design-min.html
+    |   |   |   |       
+    |   |   |   \---12
+    |   |   |           1470399656_Branding.png
+    |   |   |           1470399662_Marketing.png
+    |   |   |           1470399667_Newsletter.png
+    |   |   |           1470399671_SEO.png
+    |   |   |           1470399674_App_Development.png
+    |   |   |           1470399715_E-Commerce.png
+    |   |   |           25388715424_65480dbf18_k.jpg
+    |   |   |           Want-To-Learn-Digital-Marketing-In-Ranchi_-1-500x317.jpg
+    |   |   |           Want-To-Learn-Digital-Marketing-In-Ranchi_-2-500x317.jpg
+    |   |   |           
+    |   |   +---2020
+    |   |   |   +---07
+    |   |   |   |       LEARN-APPLY-1.jpg
+    |   |   |   |       LEARN-APPLY.jpg
+    |   |   |   |       Untitled-design-10.jpg
+    |   |   |   |       Untitled-design-4.jpg
+    |   |   |   |       Untitled-design-5.jpg
+    |   |   |   |       Untitled-design-6.jpg
+    |   |   |   |       Untitled-design-7.jpg
+    |   |   |   |       Untitled-design-8.jpg
+    |   |   |   |       
+    |   |   |   \---10
+    |   |   |           Content-Marketing.1.png
+    |   |   |           cropped-KA-1.png
+    |   |   |           CTA-Home-page-New.png
+    |   |   |           Digital-Consulting.1.png
+    |   |   |           Graphic-Design.1.png
+    |   |   |           SEO.1.png
+    |   |   |           social-media.1.png
+    |   |   |           Web-Design.1.png
+    |   |   |           
+    |   |   +---2021
+    |   |   |   +---01
+    |   |   |   |       FREE-Business-Consultancy.png
+    |   |   |   |       
+    |   |   |   +---05
+    |   |   |   |       Delnaz-Irani-Loves-Kalam-Academy-1.jpg
+    |   |   |   |       
+    |   |   |   +---11
+    |   |   |   |       1.png
+    |   |   |   |       2.png
+    |   |   |   |       3.png
+    |   |   |   |       4.png
+    |   |   |   |       5.png
+    |   |   |   |       
+    |   |   |   \---12
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-1-150x150.jpg
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-1.jpg
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-2-150x150.jpg
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-2.jpg
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-3-150x150.jpg
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-3.jpg
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-4-150x150.jpg
+    |   |   |           Ranchi-Creators-Meet-1.0-Media-Coverage-4.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-1-1-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-1-1.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-1-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-1.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-10-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-10.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-11-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-11.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-12-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-12.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-13-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-13.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-14-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-14.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-15-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-15.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-16-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-16.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-17-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-17.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-18-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-18.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-19-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-19.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-2-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-2.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-20-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-20.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-21-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-21.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-22-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-22.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-23-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-23.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-24-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-24.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-25-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-25.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-26-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-26.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-27-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-27.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-28-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-28.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-29-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-29.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-3-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-3.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-30-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-30.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-31-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-31.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-4-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-4.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-5-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-5.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-6-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-6.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-7-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-7.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-8-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-8.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-9-500x313.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos-9.jpg
+    |   |   |           Ranchi-Creators-Meet-Photos.jpg
+    |   |   |           
+    |   |   +---2023
+    |   |   |   +---03
+    |   |   |   |       DIGITAL-MARKETING-COURSE-WITH-PLACEMENT-360x240.webp
+    |   |   |   |       Digital-Marketing-Course-with-Placement.-1024x576.webp
+    |   |   |   |       DIGITAL-MARKETING-COURSE-WITH-PLACEMENT.webp
+    |   |   |   |       media-coverage-150x150.jpg
+    |   |   |   |       media-coverage.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-17-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-17.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-18-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-18.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-19-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-19.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-20-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-20.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-21-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-21.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-22-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-22.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-23-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-23.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-24-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-24.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-25-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-25.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-26-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-26.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-27-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-27.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-28-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-28.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-29-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-29.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-30-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-30.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-31-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-31.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-32-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-32.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-33-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-33.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-34-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-34.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-35-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-35.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-36-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-36.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-37-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-37.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-38-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-38.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-39-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-39.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-40-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-40.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-41-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-41.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-42-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-42.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-43-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-43.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-44-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-44.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-45-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-45.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-46-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-46.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-47-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-47.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-48-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-48.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-49-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-49.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-50-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-50.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-51-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-51.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-52-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-52.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-53-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-53.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-54-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-54.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-55-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-55.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-56-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-56.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-57-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-57.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-58-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-58.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-59-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-59.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-60-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-60.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-61-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-61.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-62-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-62.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-63-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-63.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-64-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-64.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-65-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-65.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-66-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-66.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-67-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-67.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-68-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-68.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-69-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-69.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-70-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-70.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-71-500x313.jpg
+    |   |   |   |       Ranchi-Creators-Meet-2.0-Photos-71.jpg
+    |   |   |   |       Ranchi-Creators-Meet2-1-150x150.jpg
+    |   |   |   |       Ranchi-Creators-Meet2-1.jpg
+    |   |   |   |       
+    |   |   |   +---04
+    |   |   |   |       google-ads-ka-kitna-paisaa-lagta-hai-360x240.webp
+    |   |   |   |       google-ads-ka-kitna-paisaa-lagta-hai.webp
+    |   |   |   |       website-development-cost-in-India-360x240.jpg
+    |   |   |   |       website-development-cost-in-India.jpg
+    |   |   |   |       
+    |   |   |   \---12
+    |   |   |           Website-Development-offline-courses-in-Ranchi-with-placements-360x240.jpg
+    |   |   |           
+    |   |   +---2024
+    |   |   |   +---01
+    |   |   |   |       20240108_160626_0000-1024x576.jpg
+    |   |   |   |       20240108_185905_0000.jpg
+    |   |   |   |       Best-Digital-Marketing-Institute-in-Ranchi-1.jpg
+    |   |   |   |       Best-Digital-Marketing-Institute-in-Ranchi-1024x576.jpg
+    |   |   |   |       Best-Digital-Marketing-Institute-in-Ranchi-800-x-300-px.jpg
+    |   |   |   |       Digital-marketing-course-with-placements-360x240.jpg
+    |   |   |   |       Digital-marketing-course-with-placements.jpg
+    |   |   |   |       Job-opportunities-after-Digital-Marketing-Course-1024x576.jpg
+    |   |   |   |       Topic-covered-under-Digital-Marketing-Course-1024x576.jpg
+    |   |   |   |       WhatsApp-Image-2024-01-05-at-17.08.16_2b9df509-1024x576.jpg
+    |   |   |   |       WhatsApp-Image-2024-01-05-at-17.08.16_2b9df509-360x240.jpg
+    |   |   |   |       WhatsApp-Image-2024-01-05-at-17.08.16_2b9df509.jpg
+    |   |   |   |       WhatsApp-Image-2024-01-05-at-17.08.16_310157cc-1024x576.jpg
+    |   |   |   |       WhatsApp-Image-2024-01-12-at-19.01.34_4e537adf-1-1024x214.jpg
+    |   |   |   |       
+    |   |   |   +---03
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px-1.jpg
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px-1.png
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px-2-1.jpg
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px-2.png
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px-4.png
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px-6.png
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px.jpg
+    |   |   |   |       Digital-marketing-course-with-placements-595-x-549-px.png
+    |   |   |   |       image-1.jpg
+    |   |   |   |       IMG-20240321-WA0022-1024x177.jpg
+    |   |   |   |       IMG-20240321-WA0023-1024x162.jpg
+    |   |   |   |       IMG-20240321-WA0024-1024x165.jpg
+    |   |   |   |       IMG-20240321-WA0025-1024x184.jpg
+    |   |   |   |       IMG-20240321-WA0026-1024x178.jpg
+    |   |   |   |       IMG-20240321-WA0027-1024x176.jpg
+    |   |   |   |       IMG-20240321-WA0028-1024x177.jpg
+    |   |   |   |       IMG-20240321-WA0029-1024x177.jpg
+    |   |   |   |       IMG-20240321-WA0030-1024x177.jpg
+    |   |   |   |       IMG-20240321-WA0031-1024x174.jpg
+    |   |   |   |       IMG-20240321-WA0032-1024x180.jpg
+    |   |   |   |       IMG-20240321-WA0033-1024x187.jpg
+    |   |   |   |       IMG-20240321-WA0034-1024x181.jpg
+    |   |   |   |       IMG-20240321-WA0035-1024x174.jpg
+    |   |   |   |       IMG-20240321-WA0036-1024x183.jpg
+    |   |   |   |       IMG-20240322-WA0009-1024x178.jpg
+    |   |   |   |       IMG-20240322-WA0010-1024x167.jpg
+    |   |   |   |       IMG-20240322-WA0011-1024x653.jpg
+    |   |   |   |       IMG-20240322-WA0012-1024x142.jpg
+    |   |   |   |       IMG-20240322-WA0014-1024x338.jpg
+    |   |   |   |       IMG-20240322-WA0015-1024x683.jpg
+    |   |   |   |       IMG-20240322-WA0017-1024x635.jpg
+    |   |   |   |       IMG-20240322-WA0024-1024x577.jpg
+    |   |   |   |       IMG-20240322-WA0025-1-755x1024.jpg
+    |   |   |   |       IMG-20240322-WA0026-720x1024.jpg
+    |   |   |   |       IMG-20240322-WA0027-616x1024.jpg
+    |   |   |   |       IMG-20240322-WA0029-650x1024.jpg
+    |   |   |   |       IMG-20240322-WA0030-654x1024.jpg
+    |   |   |   |       IMG-20240323-WA0002-1024x166.jpg
+    |   |   |   |       IMG-20240323-WA0004-1024x680.jpg
+    |   |   |   |       IMG-20240323-WA0005-1024x474.jpg
+    |   |   |   |       IMG-20240323-WA0006-1024x919.jpg
+    |   |   |   |       IMG-20240323-WA0007-1024x153.jpg
+    |   |   |   |       IMG-20240323-WA0008-1024x163.jpg
+    |   |   |   |       IMG-20240323-WA0009-1024x180.jpg
+    |   |   |   |       IMG-20240323-WA0010-1024x176.jpg
+    |   |   |   |       IMG-20240323-WA0011-1024x177.jpg
+    |   |   |   |       IMG-20240323-WA0012-1024x330.jpg
+    |   |   |   |       IMG-20240323-WA0029-1-1024x256.jpg
+    |   |   |   |       IMG-20240323-WA0032-1024x533.jpg
+    |   |   |   |       IMG-20240323-WA0033-1024x542.jpg
+    |   |   |   |       IMG-20240323-WA0035-1024x345.jpg
+    |   |   |   |       IMG-20240323-WA0036-1024x145.jpg
+    |   |   |   |       IMG-20240323-WA0037-1024x653.jpg
+    |   |   |   |       IMG-20240324-WA0004-1024x457.jpg
+    |   |   |   |       IMG-20240324-WA0014.jpg
+    |   |   |   |       IMG-20240324-WA0015.jpg
+    |   |   |   |       IMG-20240324-WA0016-1024x619.jpg
+    |   |   |   |       IMG-20240324-WA0017-1024x151.jpg
+    |   |   |   |       IMG-20240324-WA0018-1024x170.jpg
+    |   |   |   |       IMG-20240324-WA0019-1024x307.jpg
+    |   |   |   |       Screenshot_20240315-190541__1_-removebg-preview-1.png
+    |   |   |   |       Screenshot_20240315-190614-2-1-1-1.png
+    |   |   |   |       Screenshot_20240315-190614-2-1-1024x139.png
+    |   |   |   |       Screenshot_20240315-190614-2-1-3.png
+    |   |   |   |       Screenshot_20240319-013709-1.png
+    |   |   |   |       Screenshot_20240319-013724-1.png
+    |   |   |   |       Screenshot_20240319-013801-1-788x1024.png
+    |   |   |   |       Screenshot_20240320-004117-1.png
+    |   |   |   |       Screenshot_20240320-030046-2.png
+    |   |   |   |       Screenshot_20240320-030046-3-1.png
+    |   |   |   |       Screenshot_20240320-114833-1.png
+    |   |   |   |       Screenshot_20240320-131001-1-1024x485.png
+    |   |   |   |       Screenshot_20240321-135400-1-739x1024.png
+    |   |   |   |       Screenshot_20240321-152849-1-1-3-1024x262.png
+    |   |   |   |       Screenshot_20240322-153714-1-851x1024.png
+    |   |   |   |       Untitled-design-2-1.png
+    |   |   |   |       Untitled-design-4.png
+    |   |   |   |       WhatsApp-Image-2024-03-21-at-12.07.10_bfef3faa.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-21-at-12.22.52_87e0bac7-1024x177.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-21-at-12.22.53_16504d80-1024x183.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-21-at-12.22.53_973aefa7-1-1024x169.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-21-at-14.08.51_27bb8bd4-849x1024.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-22-at-11.16.11_c4b32715-923x1024.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-22-at-11.16.11_f9a3d11d-1024x175.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-22-at-12.02.25_ae051e39-1-890x1024.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-22-at-15.16.21_33f63d35.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-22-at-15.23.44_76ee3d51-1024x168.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-22-at-15.29.00_f8f73f20-1024x443.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-22-at-17.35.52_6b642eb3-1024x889.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-23-at-14.00.16_d08a8bcd-1024x453.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-23-at-14.09.04_ccfaa1b8-1024x399.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-23-at-14.09.05_4697f7c1-1024x405.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-23-at-14.09.05_568aaf40-1024x286.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-23-at-14.32.49_c2b76a6e-1024x312.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-23-at-14.38.47_c6a7bef5-1024x393.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-02.01.11_b34e6628-1024x312.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-02.01.12_29943271.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-02.01.12_57649042.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-02.01.12_9e14d8bd-1.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-02.01.12_9e14d8bd.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-02.01.13_73c19dfa.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-02.01.13_846a14ee-1024x298.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.36_171b6a88-930x1024.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.36_dac70428.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.37_238e57d9.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.37_7a784e15.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.37_80bf48ef.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.38_3493ef37-1024x166.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.38_47d1d92a-1024x175.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.38_84ff3886-1024x160.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.39_06d0320c-1024x280.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.39_9a03d77c-1024x169.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.20.39_a7778b23-1024x156.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-24-at-12.48.53_4d794034-1024x704.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-27-at-15.26.42_94cb5009.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-27-at-15.28.46_3dec0495.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-27-at-16.02.42_8a708aad-977x1024.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-27-at-16.04.35_c9196f5a-918x1024.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-27-at-16.23.00_55a1c5ef-1024x545.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-27-at-16.23.01_eca0b276-2-1024x161.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.41.08_4bd983eb-1-1024x245.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.41.08_52652d47-1024x345.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.41.09_a46004ad-1024x376.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.55.53_2e61013a-1024x420.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.55.54_a49ac08d-1024x246.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.55.54_b5949911-1024x242.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.55.54_f9c3f15d-1024x251.jpg
+    |   |   |   |       WhatsApp-Image-2024-03-30-at-15.55.55_d2696da9-1024x325.jpg
+    |   |   |   |       
+    |   |   |   +---09
+    |   |   |   |       cropped-Untitled-design-180x180.png
+    |   |   |   |       cropped-Untitled-design-192x192.png
+    |   |   |   |       cropped-Untitled-design-32x32.png
+    |   |   |   |       
+    |   |   |   +---10
+    |   |   |   |       Academic-Counselor-Job-in-Ranchi.jpg
+    |   |   |   |       Business-Developer-Job-in-Ranchi.jpg
+    |   |   |   |       Job-in-Ranchi-Jharkhand.jpg
+    |   |   |   |       Job-in-Ranchi.jpg
+    |   |   |   |       Tele-caller-Job-in-Ranchi.jpg
+    |   |   |   |       
+    |   |   |   \---11
+    |   |   |           Digital-Marketing-Course-in-Ranchi-with-placemen-1024x576.jpg
+    |   |   |           Digital-Marketing-Course-in-Ranchi-with-placemen-360x240.jpg
+    |   |   |           Digital-Marketing-Course-in-Ranchi-with-placemen.jpg
+    |   |   |           Web-Development-Course-in-Ranchi-1024x576.png
+    |   |   |           
+    |   |   +---elementor
+    |   |   |   +---css
+    |   |   |   |       post-1314e9ed.css
+    |   |   |   |       post-13331e703.css
+    |   |   |   |       post-13966e703.css
+    |   |   |   |       post-147424a9.css
+    |   |   |   |       post-152077c2.css
+    |   |   |   |       post-2490c499.css
+    |   |   |   |       post-3303dcef.css
+    |   |   |   |       post-402715ea.css
+    |   |   |   |       post-41423cb2.css
+    |   |   |   |       post-4625d966.css
+    |   |   |   |       post-77516313.css
+    |   |   |   |       post-80295a93.css
+    |   |   |   |       
+    |   |   |   \---thumbs
+    |   |   |           1-p1916anhppqnve62w2eqcvebxmrvu1x8mgd21r2tc0.jpg
+    |   |   |           1-p1916anhppqnve62w2eqcvebxmrvu1x8mgd256bmes.jpg
+    |   |   |           2-p19168rtc1o3868t71lh7vveqv15enpry7236meer8.jpg
+    |   |   |           3-p19169pnivpdjs7g1k03sdmvc8wimctiabpknwd0l0.jpg
+    |   |   |           4-p19169pnivpdjs7g1k03sdmvc8wimctiabpknwd0l0.jpg
+    |   |   |           
+    |   |   \---essential-addons-elementor
+    |   |           eael-2490b23b.css
+    |   |           eael-2490b23b.html
+    |   |           eael-414247ec.css
+    |   |           eael-414247ec.html
+    |   |           eael-46259bd1.css
+    |   |           eael-46259bd1.html
+    |   |           
+    |   \---js
+    |           script.minaeb9.js
+    |           
+    \---templates
+            index.html
+            
