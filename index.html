@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>DigiEd — Mobile friendly</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip-link" href="#mainContent">Skip to content</a>
+
+<header class="navbar">
+  <a class="logo" href="index.html" data-link> DigiEd </a>
+  <nav class="nav-links" aria-label="Main Navigation">
+    <a href="index.html" data-link>Home</a>
+    <a href="notes.html" data-link>Notes</a>
+    <a href="Free_Counselling.html" data-link>Free Counselling</a>
+    <a href="contact.html" data-link>Contact</a>
+  </nav>
+  <div class="nav-buttons">
+    <a href="checkout.html" class="btn btn-primary" data-link>Checkout</a>
+  </div>
+  <div class="hamburger" id="hamburger" aria-label="Open menu" role="button" tabindex="0">
+    <div></div><div></div><div></div>
+  </div>
+  <div class="mobile-nav" id="mobileNav" aria-hidden="true">
+    <a href="index.html" data-link>Home</a>
+    <a href="notes.html" data-link>Notes</a>
+    <a href="Free_Counselling.html" data-link>Free Counselling</a>
+    <a href="contact.html" data-link>Contact</a>
+    <a href="checkout.html" data-link>Checkout</a>
+  </div>
+</header>
+
+<main id="mainContent" class="container" role="main">
+<!-- Original index content injected here for first paint -->
+<section class="hero">
+  <p class="tag">Digital Marketing Solution</p>
+  <h1>Transform Your Mind <br> With Our <span>Course</span></h1>
+  <p class="subtitle">Streamline your operations, boost productivity, and enhance your skills with our specially designed course.</p>
+  <div class="hero-buttons">
+    <a href="notes.html" class="btn btn-primary" data-link>Get started</a>
+    <a href="Free_Counselling.html" class="btn btn-secondary" data-link>Free Counselling →</a>
+  </div>
+  <div class="features">
+    <span>⏳ Free demo class</span>
+    <span>💰 Good education</span>
+    <span>✅ Study material with notes</span>
+  </div>
+</section>
+
+<section class="info reveal">
+  <h2>Unlock the Full Potential of <span>Digital Marketing Learning</span></h2>
+  <div class="cards">
+    <div class="card">
+      <h3>SEO (Search Engine Optimization)</h3>
+      <p>Improve your website’s visibility on search engines to attract organic traffic.</p>
+    </div>
+    <div class="card">
+      <h3>Run Effective Ad Campaigns</h3>
+      <p>Understand how to launch and manage PPC ads that deliver measurable results.</p>
+    </div>
+    <div class="card">
+      <h3>Analyze Marketing Performance</h3>
+      <p>Gain skills in using analytics tools to track campaign success and make data-driven decisions.</p>
+    </div>
+  </div>
+</section>
+
+<section class="checkout-section">
+  <h2>Enroll in Our Course</h2>
+  <p>Get access to our Digital Marketing course. Get first Demo Class Free.</p>
+  <button class="btn btn-primary" id="addCourseBtn">Add Course</button>
+  <div id="cartInfo" class="cart-info" style="display:none;">
+    <p>✅ Course Added Successfully!</p>
+    <p><b>Total Amount: ₹<span id="totalAmount">0</span></b></p>
+    <button class="btn btn-secondary" id="proceedCheckout">Proceed to Checkout</button>
+  </div>
+</section>
+</main>
+
+
+<footer class="footer">
+  <div class="footer-container container">
+    <div class="footer-about">
+      <h3>DigiEd</h3>
+      <p>Transforming businesses with new Digital Marketing Solution. Streamline operations, boost productivity, and grow faster.</p>
+    </div>
+    <div class="footer-contact">
+      <h4>Contact Us</h4>
+      <p>Email: support@equinox.com</p>
+      <p>Phone: +91 7305510181</p>
+      <p>Location: Delhi, India</p>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>© 2025 DigiEd. All Rights Reserved.</p>
+  </div>
+</footer>
+
+
+<script src="script.js"></script>
+<script>
+// Hamburger menu toggle for mobile
+const hamburger = document.getElementById('hamburger');
+const mobileNav = document.getElementById('mobileNav');
+hamburger.addEventListener('click', function() {
+  const isOpen = mobileNav.style.display === 'block' || mobileNav.style.display === 'flex';
+  mobileNav.style.display = isOpen ? 'none' : 'block';
+  mobileNav.setAttribute('aria-hidden', isOpen ? 'true' : 'false');
+});
+hamburger.addEventListener('keypress', function(e) {
+  if (e.key === 'Enter' || e.key === ' ') {
+    hamburger.click();
+  }
+});
+// Hide mobile nav on link click
+mobileNav.querySelectorAll('a').forEach(function(link) {
+  link.addEventListener('click', function() {
+    mobileNav.style.display = 'none';
+    mobileNav.setAttribute('aria-hidden', 'true');
+  });
+});
+</script>
+</body>
+</html>
