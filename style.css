@@ -217,6 +217,11 @@ body::after {
 
 }
 
+.container {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 .footer-container {
 
   display: grid;
@@ -710,3 +715,4 @@ body > *:last-child {
 }
 
  
+
