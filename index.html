@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SaaS Website</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- Navbar -->
+<header class="navbar">
+<div class="logo">DigiEd</div>
+<nav>
+</nav>
+<div class="nav-buttons">
+<a href="contact.html" class="btn btn-primary">Contact us</a>
+</div>
+</header>
+<!-- Hero Section -->
+<section class="hero">
+<p class="tag">Digital Marketing Solution</p>
+<h1>Transform Your Mind <br> With Our <span>Course</span></h1>
+<p class="subtitle">
+
+      Streamline your operations, boost productivity, and enhance your skills 
+
+      with our specially designed course.
+</p>
+<div class="hero-buttons">
+<a href="notes.html" class="btn btn-primary">Get started</a>
+<a href="Free_Counselling.html" class="btn btn-secondary">Free Counselling →</a>
+</div>
+<div class="features">
+<span>⏳ Free demo class</span>
+<span>💰 Good education</span>
+<span>✅ Study material with notes</span>
+</div>
+</section>
+</section>
+<!-- Companies -->
+<section class="companies">
+<p>Course starts at Rs.2999 only.</p>
+</div>
+</section>
+<!-- Features -->
+<section class="info">
+<h2>Unlock the Full Potential of <span>Digital Marketing Learning</span></h2>
+<div class="cards">
+<div class="card">
+<h3>SEO (Search Engine Optimization)</h3>
+<p>Improve your website’s visibility on search engines to attract organic traffic.</p>
+</div>
+<div class="card">
+<h3>Run Effective Ad Campaigns</h3>
+<p>Understand how to launch and manage PPC ads that deliver measurable results.</p>
+</div>
+<div class="card">
+<h3>Analyze Marketing Performance</h3>
+<p>Gain skills in using analytics tools to track campaign success and make data-driven decisions.</p>
+</div>
+</div>
+</section>
+<!-- Add Course Section -->
+<section class="checkout-section">
+<h2>Enroll in Our Course</h2>
+<p>Get  access to our Digital Marketing course.</p>
+<p> Get first Demo Class Free.</p>
+<button class="btn btn-primary" id="addCourseBtn" onclick="window.location.href='checkout.html'">Add Course</button>
+<div id="cartInfo" class="cart-info" style="display:none;">
+<p>✅ Course Added Successfully!</p>
+<p><b>Total Amount: ₹<span id="totalAmount">0</span></b></p>
+<button class="btn btn-secondary" onclick="showCheckout()">Proceed to Checkout</button>
+</div>
+<div id="checkoutBox" class="checkout-box">
+<h3>Complete Your Payment</h3>
+<!-- <button class="btn btn-primary" id="payNowBtn" onclick="showGpayDetails(this)">
+
+  Pay Now
+</button> -->
+<p id="gpayDetails" style="display:none; margin-top:10px;">
+
+  📱 Pay via GPay: <b>+91 7305510181</b><br><br>
+<a href="upi://pay?pa=7305510181@okaxis&pn=DigiEd&am=2999&cu=INR">
+<button class="btn btn-secondary">Open in GPay</button>
+</a>
+</p>
+
+<!-- Checkout Section -->
+<section class="checkout-section">
+<h2>Course Checkout</h2>
+<p>Add your course and proceed to payment.</p>
+<!-- Info placeholders -->
+<div class="cart-info" id="cartInfo"></div>
+<p id="totalAmount"></p>
+<!-- Add Course Button -->
+<button class="btn btn-primary" id="addCourseBtn">Add Course</button>
+<!-- Script should go here -->
+<script>
+   document.getElementById("addCourseBtn").addEventListener("click", function () {
+     let courses = JSON.parse(localStorage.getItem("courses")) || [];
+     courses.push({ name: "Full Stack Development Course", price: 2999 });
+     localStorage.setItem("courses", JSON.stringify(courses));
+     window.location.href = "checkout.html";
+   });
+</script>
+<script>
+function showGpayDetails(btn) {
+ btn.style.display = "none"; // hide the Pay Now button
+ document.getElementById("gpayDetails").style.display = "block"; // show GPay details
+}
+</script>
+</body>
+<!-- Hidden checkout box -->
+<!-- <div class="checkout-box" id="checkoutBox" style="display:none;">
+<h3>Payment</h3>
+<p>Click the button below to pay via GPay:</p>
+Direct UPI Link for Google Pay -->
+<!-- <a href="upi://pay?pa=7305510181@okaxis&pn=DigiEd&am=2999&cu=INR">
+<button class="btn btn-primary" id="payNowBtn">Pay Now</button>
+</a>
+</div> -->
+<!----now payment section added here //chirag-->
+<!-- Checkout Box -->
+<!-- <div class="checkout-box" id="checkoutBox" style="display:none; background:#0a1438; color:#fff; padding:20px; border-radius:12px; max-width:400px; margin:auto; text-align:center;">
+  <h3>Payment</h3>
+  <p>Click the button below to pay via GPay:</p>
+  <button class="btn btn-primary" id="payNowBtn" onclick=showGpayDetails >Pay Now</button>
+</div> -->
+
+<!-- Payment Popup (Modal) -->
+<div id="paymentPopup" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); backdrop-filter: blur(5px); z-index:1000; justify-content:center; align-items:center;">
+  <div style="background:#111c44; color:#fff; padding:30px; border-radius:15px; width:90%; max-width:400px; text-align:center; box-shadow:0 0 20px rgba(0,0,0,0.5);">
+    <h2>Confirm Payment</h2>
+    <p>You will be redirected to <b>Google Pay</b> to pay:</p>
+    <h3 style="color:#4cafef;">₹2999</h3>
+    <p>UPI ID: <b>7305510181@okaxis</b></p>
+    <div style="margin-top:20px;">
+      <button onclick="proceedPayment()" style="padding:10px 20px; background:linear-gradient(90deg,#4facfe,#00f2fe); border:none; border-radius:8px; color:#fff; font-weight:bold; cursor:pointer;">Proceed</button>
+      <button onclick="closePopup()" style="padding:10px 20px; background:#333; border:none; border-radius:8px; color:#fff; margin-left:10px; cursor:pointer;">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const payNowBtn = document.getElementById("payNowBtn");
+  const popup = document.getElementById("paymentPopup");
+
+  payNowBtn.addEventListener("click", function () {
+    popup.style.display = "flex";
+  });
+
+  function closePopup() {
+    popup.style.display = "none";
+  }
+
+  function proceedPayment() {
+    // Redirect to UPI Link
+    window.location.href = "upi://pay?pa=7305510181@okaxis&pn=DigiEd&am=2999&cu=INR";
+  }
+</script>
+<!----new payment section ended here with js script //chirag-->
+</div>
+</section>
+</div>
+</section>
+<script src="script.js"></script>
+<!-- Footer -->
+<footer class="footer">
+<div class="footer-container">
+<!-- Company Info -->
+<div class="footer-about">
+<h3>DigiEd</h3>
+<p>
+
+        Transforming businesses with new Digital Marketing Solution.  
+
+        Streamline operations, boost productivity, and grow faster.
+</p>
+</div>
+<!-- Contact -->
+<div class="footer-contact">
+<h4>Contact Us</h4>
+<p>Email: support@equinox.com</p>
+<p>Phone: +91 7305510181</p>
+<p>Location: Delhi, India</p>
+</div>
+<!-- Social -->
+<div class="footer-social">
+</div>
+</div>
+<div class="footer-bottom">
+<p>© 2025 DigiEd. All Rights Reserved.</p>
+</div>
+</footer>
+<script>
+function showCheckout() {
+ document.getElementById("checkoutBox").style.display = "block";
+}
+function showGpay() {
+ document.getElementById("gpayNumber").style.display = "block";
+}
+</script>
+ <!-- Payment Popup -->
+<div id="paymentPopup" class="popup">
+<div class="popup-content">
+<span class="close-btn" onclick="closePopup()">&times;</span>
+<h3>Pay via GPay</h3>
+<p>📱 GPay Number: <b>+91 7305510181</b></p>
+<a href="upi://pay?pa=7305510181@okaxis&pn=DigiEd&am=2999&cu=INR">
+<button class="btn btn-secondary">Open in GPay</button>
+</a>
+</div>
+</a>
+</div>
+</div>
+</body>
+</html>
+ 
