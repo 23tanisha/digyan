@@ -10,6 +10,10 @@ body {
   padding: 0;
   overflow-x: hidden;
 }
+html {
+  overflow-x: hidden;
+}
+
 body {
  font-family: 'Segoe UI', sans-serif;
  background: radial-gradient(circle at top left, #0f172a, #000 60%); /* dark blue to black */
@@ -172,10 +176,12 @@ body::after {
  background: rgba(17,24,39,0.9);
  padding: 30px;
  border-radius: 10px;
- width: 100%;
+ /* flex: 1; */ /* allow cards to grow */
+  width: 100%; /* full width on small screens */
  min-width: 250px;
- box-sizing: border-box;
  max-width: 300px;
+ box-sizing: border-box;
+
  transition: transform 0.3s, box-shadow 0.3s;
 }
 .card:hover {
@@ -216,11 +222,6 @@ body::after {
 
   margin-top: 60px;
 
-}
-
-.container {
-  max-width: 100%;
-  overflow-x: hidden;
 }
 
 .footer-container {
@@ -714,8 +715,14 @@ body > *:last-child {
   to {opacity: 1; transform: scale(1);}
 
 }
+@media (max-width: 480px) {
+  .card {
+    min-width: auto;
+    max-width: 90%;
+    margin: 10px auto;
+  }
 
- 
-
-
-
+  .cards {
+    padding: 0 10px; /* optional for spacing on small screens */
+  }
+}
