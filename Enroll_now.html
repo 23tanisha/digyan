@@ -106,9 +106,14 @@
       transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
 
-    .open-modal-btn:hover {
+    .open-modal-btn:hover:enabled {
       transform: translateY(-2px);
       box-shadow: 0px 5px 15px rgba(74, 108, 247, 0.5);
+    }
+
+    .open-modal-btn:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
     }
 
     small {
@@ -221,10 +226,16 @@
 
   <!-- Script -->
   <script>
-    document.getElementById("counsellingForm").addEventListener("submit", function (e) {
+    const form = document.getElementById("counsellingForm");
+    const submitBtn = document.getElementById("frmButton");
+
+    form.addEventListener("submit", function (e) {
       e.preventDefault();
 
-      const form = e.target;
+      // Show loader text
+      submitBtn.disabled = true;
+      submitBtn.innerText = "Submitting…";
+
       const formData = new FormData(form);
       const encodedData = new URLSearchParams(formData);
 
@@ -243,6 +254,11 @@
         .catch((error) => {
           document.getElementById("formMessage").innerText = "Submission failed. Please try again.";
           console.error("Error!", error.message);
+        })
+        .finally(() => {
+          // Restore button state
+          submitBtn.disabled = false;
+          submitBtn.innerText = "Enroll Now";
         });
     });
 
