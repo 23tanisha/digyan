@@ -7,15 +7,15 @@
   <style>
     /* Page background */
     body {
-  margin: 0;
-  padding: 0;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: linear-gradient(135deg, #050d1f, #0a1438, #111c44);
-  font-family: "Poppins", sans-serif;
-  color: #fff;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #050d1f, #0a1438, #111c44);
+      font-family: "Poppins", sans-serif;
+      color: #fff;
     }
 
     /* General form container */
@@ -35,7 +35,7 @@
     /* Blur background when modal active */
     .blurred {
       filter: blur(6px);
-      pointer-events: none; /* disable clicks while blurred */
+      pointer-events: none;
     }
 
     /* Heading */
@@ -106,7 +106,12 @@
       transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
 
-    .open-modal-btn:hover {
+    .open-modal-btn:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
+
+    .open-modal-btn:hover:not(:disabled) {
       transform: translateY(-2px);
       box-shadow: 0px 5px 15px rgba(74, 108, 247, 0.5);
     }
@@ -120,7 +125,7 @@
 
     /* Popup Modal */
     .modal {
-      display: none;
+      display: none; /* hidden by default */
       position: fixed;
       z-index: 999;
       left: 0;
@@ -128,10 +133,9 @@
       width: 100%;
       height: 100%;
       background: rgba(10, 10, 20, 0.7);
-      display: flex;
       align-items: center;
       justify-content: center;
-      backdrop-filter: blur(4px); /* adds glassy effect */
+      backdrop-filter: blur(4px);
     }
 
     .modal-content {
@@ -175,9 +179,7 @@
 </head>
 <body>
 
-  <!-- Wrap whole page inside container to blur -->
   <div id="pageContent">
-    <!-- Form -->
     <form id="counsellingForm">
       <div class="kalam_buisness_form_section" id="digital">
         <div class="kalam_buisness_input_wrapper">
@@ -220,20 +222,28 @@
     </div>
   </div>
 
-  <!-- Script -->
   <script>
-    document.getElementById("counsellingForm").addEventListener("submit", function (e) {
+    const form = document.getElementById("counsellingForm");
+    const btn = document.getElementById("frmButton");
+
+    form.addEventListener("submit", function (e) {
       e.preventDefault();
 
-      const form = e.target;
       const formData = new FormData(form);
       const encodedData = new URLSearchParams(formData);
+
+      // Show loader state
+      btn.disabled = true;
+      btn.innerText = "Submitting...";
 
       fetch("https://script.google.com/macros/s/AKfycbx2ztOeh_Vsw8-1t-lyGVpaeDlnw7TOyamS_7eb2aTdDkk4w_niu-qjEikns-PddeD3/exec", {
         method: "POST",
         body: encodedData,
       })
         .then((res) => {
+          btn.disabled = false;
+          btn.innerText = "FREE COUNSELLING";
+
           if (res.ok) {
             form.reset();
             openModal();
@@ -242,12 +252,13 @@
           }
         })
         .catch((error) => {
+          btn.disabled = false;
+          btn.innerText = "FREE COUNSELLING";
           document.getElementById("formMessage").innerText = "Submission failed. Please try again.";
           console.error("Error!", error.message);
         });
     });
 
-    // Modal functions
     function openModal() {
       document.getElementById("thankYouModal").style.display = "flex";
       document.getElementById("pageContent").classList.add("blurred");
