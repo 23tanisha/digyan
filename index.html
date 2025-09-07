@@ -65,25 +65,25 @@
 <h2>Enroll in Our Course</h2>
 <p>Get  access to our Digital Marketing course.</p>
 <p> Get first Demo Class Free.</p>
-<button class="btn btn-primary" id="addCourseBtn" onclick="window.location.href='checkout.html'">Add Course</button>
+<button class="btn btn-primary" id="addCourseBtn" onclick="window.location.href='Enroll_now.html'">Enroll Now</button>
 <div id="cartInfo" class="cart-info" style="display:none;">
-<p>✅ Course Added Successfully!</p>
+<!-- <p>✅ Course Added Successfully!</p>
 <p><b>Total Amount: ₹<span id="totalAmount">0</span></b></p>
 <button class="btn btn-secondary" onclick="showCheckout()">Proceed to Checkout</button>
 </div>
 <div id="checkoutBox" class="checkout-box">
-<h3>Complete Your Payment</h3>
+<h3>Complete Your Payment</h3> -->
 <!-- <button class="btn btn-primary" id="payNowBtn" onclick="showGpayDetails(this)">
 
   Pay Now
 </button> -->
-<p id="gpayDetails" style="display:none; margin-top:10px;">
+<!-- <p id="gpayDetails" style="display:none; margin-top:10px;">
 
   📱 Pay via GPay: <b>+91 7305510181</b><br><br>
 <a href="upi://pay?pa=7305510181@okaxis&pn=DigiEd&am=2999&cu=INR">
 <button class="btn btn-secondary">Open in GPay</button>
 </a>
-</p>
+</p> -->
 
 <!-- Checkout Section -->
 <section class="checkout-section">
@@ -93,14 +93,14 @@
 <div class="cart-info" id="cartInfo"></div>
 <p id="totalAmount"></p>
 <!-- Add Course Button -->
-<button class="btn btn-primary" id="addCourseBtn">Add Course</button>
+<button class="btn btn-primary" id="addCourseBtn">Enroll Now</button>
 <!-- Script should go here -->
 <script>
    document.getElementById("addCourseBtn").addEventListener("click", function () {
      let courses = JSON.parse(localStorage.getItem("courses")) || [];
      courses.push({ name: "Full Stack Development Course", price: 2999 });
      localStorage.setItem("courses", JSON.stringify(courses));
-     window.location.href = "checkout.html";
+     window.location.href = "Enroll_now.html";
    });
 </script>
 <script>
@@ -217,5 +217,6 @@ function showGpay() {
 </html>
 
  
+
 
 
