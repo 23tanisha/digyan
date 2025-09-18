@@ -731,34 +731,72 @@ body > *:last-child {
 /* ======================= */
 
 /* Flip Card Back (final clean version) */
+/* Flip Card Container */
+.flip-card {
+  background: transparent;
+  width: 280px;
+  height: 260px;
+  perspective: 1000px;
+}
+
+/* Inner wrapper */
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.7s;
+  transform-style: preserve-3d;
+}
+
+/* Hover effect */
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+/* Front & Back common */
+.flip-card-front,
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden; /* hide backside when not visible */
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+/* Front side (default visible) */
+.flip-card-front {
+  background: rgba(17,24,39,0.95);
+  color: #60a5fa;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+/* Back side (hidden by default, rotates in on hover) */
 .flip-card-back {
   background: #f8f9fa;
   color: #222;
   transform: rotateY(180deg);
   font-size: 0.9rem;
   line-height: 1.5;
-  text-align: left;
-  
-  /* Important fixes */
-  overflow-y: auto;       /* scroll if content overflows */
-  height: 100%;           /* lock to card height */
-  padding: 20px;
-  box-sizing: border-box;
-  border-radius: 12px;
-  
-  /* Scrollbar tweaks */
-  scrollbar-width: thin; /* Firefox */
+  overflow-y: auto;   /* scroll if content is long */
+  scrollbar-width: thin;
 }
 
 .flip-card-back::-webkit-scrollbar {
   width: 6px;
 }
-
 .flip-card-back::-webkit-scrollbar-thumb {
   background: rgba(96,165,250,0.7);
   border-radius: 4px;
 }
-
 .flip-card-back::-webkit-scrollbar-track {
   background: rgba(0,0,0,0.1);
 }
+
