@@ -16,32 +16,54 @@
 <a href="contact.html" class="btn btn-primary">Contact us</a>
 </div>
 </header>
-<!-- Hero Section -->
+
+<!-- HERO (Above the Fold) -->
 <section class="hero">
-<p class="tag">Digital Marketing Solution</p>
-<h1>Transform Your Mind <br> With Our <span>Course</span></h1>
-<p class="subtitle">
+  <h1>Start Your Digital Marketing Career in Just 8 Weeks 🚀</h1>
+  <p>No fancy degree? No problem. Learn Social Media, Instagram Ads, Google Ads & SEO and get the skills companies are hiring for right now.</p>
+  <p>👉 Your ticket to a ₹25,000–₹60,000/month career starts here.</p>
 
-      Streamline your operations, boost productivity, and enhance your skills 
+  <div class="hero-buttons">
+    <a href="Enroll_now.html" class="btn btn-primary">Start Your Career Now</a>
+    <a href="Free_Counselling.html" class="btn btn-secondary">Get Free Brochure</a>
+  </div>
+</section>
 
-      with our specially designed course.
-</p>
-<div class="hero-buttons">
-<a href="notes.html" class="btn btn-primary">Course</a>
-<a href="Free_Counselling.html" class="btn btn-secondary">Free Counselling →</a>
-</div>
-<div class="features">
-<span>⏳ Free demo class</span>
-<span>💰 Good education</span>
-<span>✅ Study material with notes</span>
-</div>
+<!-- THE DREAM SECTION -->
+<section class="dream">
+  <h2>The Dream</h2>
+  <p>💼 Companies, startups, and even international clients are searching for people who can run ads, rank websites, and grow businesses online.</p>
+  <p>📱 Whether you want a job, a side-income, or to grow your own business, digital marketing is the fastest way to upgrade your career.</p>
+  <p>👉 Learn once. Earn forever.</p>
 </section>
+
+<!-- WHAT YOU GET -->
+<section class="what-you-get">
+  <h2>What You Get</h2>
+  <ul>
+    <li><b>Job-ready skills</b> → Social Media, Insta Ads, Google Ads, SEO</li>
+    <li><b>Real projects</b> → Build campaigns you can show to employers</li>
+    <li><b>100% practical learning</b> → No boring theory, only execution</li>
+    <li><b>Certificate</b> → DigiEd Digital Marketing Certificate</li>
+    <li><b>Job & freelance support</b> → Resume help, interview prep, client pitching</li>
+  </ul>
 </section>
+
+<!-- SUCCESS STORIES -->
+<section class="success-stories">
+  <h2>Success Stories 🚀</h2>
+  <p>📈 “From ₹12k to ₹42k: How Mehul got a digital marketing job in just 2 months”</p>
+  <p>💻 “Anjali works with a US client from home—earning in dollars”</p>
+  <p>📱 “Arjun runs Instagram ads for 5 businesses and makes more than his old salary”</p>
+  <p>👉 Your story could be next.</p>
+</section>
+
 <!-- Companies -->
 <section class="companies">
 <p> </p> <!-- <p>Course starts at Rs.2999 only.</p> is removed-->
 </div>
 </section>
+
 <!-- Features -->
 <section class="info">
 <h2>Unlock the Full Potential of <span>Digital Marketing Learning</span></h2>
@@ -60,6 +82,7 @@
 </div>
 </div>
 </section>
+
 <!-- Course Section -->
 <section class="checkout-section">
   <h2>Enroll in Our Course</h2>
@@ -79,22 +102,6 @@ function showGpayDetails(btn) {
 }
 </script>
 </body>
-<!-- Hidden checkout box -->
-<!-- <div class="checkout-box" id="checkoutBox" style="display:none;">
-<h3>Payment</h3>
-<p>Click the button below to pay via GPay:</p>
-Direct UPI Link for Google Pay -->
-<!-- <a href="upi://pay?pa=7305510181@okaxis&pn=DigiEd&am=2999&cu=INR">
-<button class="btn btn-primary" id="payNowBtn">Pay Now</button>
-</a>
-</div> -->
-<!----now payment section added here //chirag-->
-<!-- Checkout Box -->
-<!-- <div class="checkout-box" id="checkoutBox" style="display:none; background:#0a1438; color:#fff; padding:20px; border-radius:12px; max-width:400px; margin:auto; text-align:center;">
-  <h3>Payment</h3>
-  <p>Click the button below to pay via GPay:</p>
-  <button class="btn btn-primary" id="payNowBtn" onclick=showGpayDetails >Pay Now</button>
-</div> -->
 
 <!-- Payment Popup (Modal) -->
 <div id="paymentPopup" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.7); backdrop-filter: blur(5px); z-index:1000; justify-content:center; align-items:center;">
@@ -114,9 +121,11 @@ Direct UPI Link for Google Pay -->
   const payNowBtn = document.getElementById("payNowBtn");
   const popup = document.getElementById("paymentPopup");
 
-  payNowBtn.addEventListener("click", function () {
-    popup.style.display = "flex";
-  });
+  if (payNowBtn) {
+    payNowBtn.addEventListener("click", function () {
+      popup.style.display = "flex";
+    });
+  }
 
   function closePopup() {
     popup.style.display = "none";
@@ -127,12 +136,9 @@ Direct UPI Link for Google Pay -->
     window.location.href = "upi://pay?pa=7305510181@okaxis&pn=DigiEd&am=2999&cu=INR";
   }
 </script>
-<!----new payment section ended here with js script //chirag-->
-</div>
-</section>
-</div>
-</section>
+
 <script src="script.js"></script>
+
 <!-- Footer -->
 <footer class="footer">
 <div class="footer-container">
@@ -140,9 +146,7 @@ Direct UPI Link for Google Pay -->
 <div class="footer-about">
 <h3>DigiEd</h3>
 <p>
-
         Transforming businesses with new Digital Marketing Solution.  
-
         Streamline operations, boost productivity, and grow faster.
 </p>
 </div>
@@ -169,6 +173,7 @@ function showGpay() {
  document.getElementById("gpayNumber").style.display = "block";
 }
 </script>
+
  <!-- Payment Popup -->
 <div id="paymentPopup" class="popup">
 <div class="popup-content">
@@ -184,11 +189,3 @@ function showGpay() {
 </div>
 </body>
 </html>
-
- 
-
-
-
-
-
-
