@@ -793,3 +793,24 @@ body > *:last-child {
   }
 }
 
+/* Allow scroll on back side if content is too long */
+.flip-card-back {
+  overflow-y: auto;         /* vertical scroll if content is bigger */
+  max-height: 100%;         /* stay inside card height */
+  scrollbar-width: thin;    /* thin scrollbar for Firefox */
+}
+
+/* For Chrome/Edge scrollbar styling */
+.flip-card-back::-webkit-scrollbar {
+  width: 6px;
+}
+
+.flip-card-back::-webkit-scrollbar-thumb {
+  background: rgba(96,165,250,0.7); /* light blue */
+  border-radius: 4px;
+}
+
+.flip-card-back::-webkit-scrollbar-track {
+  background: rgba(0,0,0,0.1);
+}
+
