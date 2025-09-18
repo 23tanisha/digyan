@@ -726,3 +726,70 @@ body > *:last-child {
     padding: 0 10px; /* optional for spacing on small screens */
   }
 }
+/* ======================= */
+/* Flip Card Styling (added) */
+/* ======================= */
+
+.flip-card {
+  background: transparent;
+  width: 280px;
+  height: 260px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.7s;
+  transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, 
+.flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* Front side */
+.flip-card-front {
+  background: rgba(17,24,39,0.95);
+  color: #60a5fa;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+/* Back side */
+.flip-card-back {
+  background: #f8f9fa;
+  color: #222;
+  transform: rotateY(180deg);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  padding: 25px;
+  text-align: left;
+}
+
+/* Responsive for mobile */
+@media (max-width: 768px) {
+  .flip-card {
+    width: 90%;
+    max-width: 320px;
+    margin: 0 auto;
+  }
+}
+
