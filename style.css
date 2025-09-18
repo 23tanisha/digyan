@@ -732,89 +732,28 @@ body > *:last-child {
 
 /* Flip Card Back (final clean version) */
 /* Flip Card Container */
-.flip-card {
-  background: transparent;
-  width: 280px;
-  height: 260px;
-  perspective: 1000px;
-}
-
-/* Inner wrapper */
-.flip-card-inner {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  transition: transform 0.7s;
-  transform-style: preserve-3d;
-}
-
-/* Hover effect */
-.flip-card:hover .flip-card-inner {
-  transform: rotateY(180deg);
-}
-
-/* Front & Back common */
-.flip-card-front,
+/* Back side styling with dark theme */
 .flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden; /* hide backside when not visible */
-  border-radius: 12px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
-  padding: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  box-sizing: border-box;
-}
-
-/* Front side (default visible) */
-.flip-card-front {
-  background: rgba(17,24,39,0.95);
-  color: #60a5fa;
-  font-weight: bold;
-  font-size: 1.3rem;
-}
-
-/* Back side (hidden by default, rotates in on hover) */
-.flip-card-back {
-  background: #f8f9fa;
-  color: #222;
+  background: rgba(17, 24, 39, 0.95); /* dark blue-black, match site bg */
+  color: #fff !important;             /* text white */
   transform: rotateY(180deg);
   font-size: 0.9rem;
   line-height: 1.5;
-  overflow-y: auto;   /* scroll if content is long */
+  overflow-y: auto;
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 12px;
   scrollbar-width: thin;
 }
 
+/* Scrollbar match with theme */
 .flip-card-back::-webkit-scrollbar {
   width: 6px;
 }
 .flip-card-back::-webkit-scrollbar-thumb {
-  background: rgba(96,165,250,0.7);
+  background: rgba(96,165,250,0.7); /* DigiEd blue */
   border-radius: 4px;
 }
 .flip-card-back::-webkit-scrollbar-track {
-  background: rgba(0,0,0,0.1);
+  background: rgba(255,255,255,0.05);
 }
-
-/* Back side text black */
-.flip-card-back,
-.flip-card-back p {
-  color: #000 !important;
-}
-
-/* Headings premium navy blue */
-.flip-card-back h3 {
-  color: #0a2540 !important;  /* deep navy */
-  font-weight: bold;
-}
-/* Front side headings with neon blue glow */
-.flip-card-front h3 {
-  color: #60a5fa; /* DigiEd blue */
-  text-shadow: 0 0 8px rgba(96,165,250,0.8),
-               0 0 15px rgba(96,165,250,0.6);
-}
-
