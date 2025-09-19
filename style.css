@@ -753,7 +753,8 @@ body > *:last-child {
   transform-style: preserve-3d;
 }
 
-.flip-card:hover .flip-card-inner {
+.flip-card:hover .flip-card-inner,
+.flip-card.active .flip-card-inner {
   transform: rotateY(180deg);
 }
 
@@ -840,4 +841,5 @@ body > *:last-child {
     margin: 0 auto;
   }
 }
+
 
