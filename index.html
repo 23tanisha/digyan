@@ -112,6 +112,19 @@
   </div>
 </section>
 
+
+<script>
+  // Flip on tap for mobile
+  document.querySelectorAll('.flip-card').forEach(card => {
+    card.addEventListener('click', () => {
+      card.classList.toggle('active');
+    });
+  });
+</script>
+</body>
+</html>
+
+
 <!-- Course Section -->
 <section class="checkout-section">
   <h2>Enroll in Our Course</h2>
@@ -234,6 +247,7 @@ function showGpay() {
 </div>
 </body>
 </html>
+
 
 
 
